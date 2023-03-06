@@ -1,21 +1,14 @@
 {
-    "name": "stevenmaguire/oauth2-keycloak",
-    "description": "Keycloak OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
+    "name": "nvn_trc/nvn_trc_oauth2",
+    "description": "OAuth2-Client",
     "license": "MIT",
     "authors": [
         {
-            "name": "Steven Maguire",
-            "email": "stevenmaguire@gmail.com",
-            "homepage": "https://github.com/stevenmaguire"
+            "name": "Naveenkumar"
         }
     ],
     "keywords": [
-        "oauth",
-        "oauth2",
-        "client",
-        "authorization",
-        "authorisation",
-        "keycloak"
+        "nvn_trc"
     ],
     "require": {
         "league/oauth2-client": "^2.0",
